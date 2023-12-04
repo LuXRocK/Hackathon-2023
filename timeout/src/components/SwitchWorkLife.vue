@@ -20,7 +20,11 @@ export default {
         &__work, &__life{
             width: 20%;
             height: 5vh;
+            border: none;
+            color: white;
         }
+
+        
     }
 
 </style>
