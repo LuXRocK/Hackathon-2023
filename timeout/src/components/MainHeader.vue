@@ -16,6 +16,7 @@ export default {
   
 <style lang="scss">
     .header{
+        padding: 5%;
         display: grid;
         grid-template-columns: 20% 60% 20%;
         grid-template-areas: 
